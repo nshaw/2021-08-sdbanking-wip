@@ -6,5 +6,5 @@ components:
         - plugins/banking-descriptor.yaml
 
     widgets:
-        - ui/widgets/alert-bar-icon/alert-bar-icon-descriptor.yaml
+        - ui/widgets/banking-widgets/alert-bar-icon-react/alert-bar-icon-descriptor.yaml
     # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
