@@ -7,8 +7,8 @@ customUiPath: alert-bar-icon.ftl
 configUi:
   customElement: sd-alert-bar-icon-config
   resources:
-    - sd-banking/static/js/2.f63056f9.chunk.js
-    - sd-banking/static/js/main.aaadde45.chunk.js
+    - sd-banking/static/js/2.7845a6fb.chunk.js
+    - sd-banking/static/js/main.7f27f7d5.chunk.js
     - sd-banking/static/js/runtime-main.b2880ffd.js
 
 # entando_resource_injection_point
