@@ -1,6 +1,6 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />sd-banking/static/js/2.afa30189.chunk.js"></script>
-<script src="<@wp.resourceURL />sd-banking/static/js/main.30c8e20e.chunk.js"></script>
+<script src="<@wp.resourceURL />sd-banking/static/js/2.f8e874eb.chunk.js"></script>
+<script src="<@wp.resourceURL />sd-banking/static/js/main.d980080e.chunk.js"></script>
 <script src="<@wp.resourceURL />sd-banking/static/js/runtime~main.3441d7be.js"></script>
 
 

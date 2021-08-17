@@ -1,6 +1,6 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />sd-banking/static/dashboard-card-angular/main-es2015.524b2820e94ea0e905be.js"></script>
-<script src="<@wp.resourceURL />sd-banking/static/dashboard-card-angular/main-es5.524b2820e94ea0e905be.js"></script>
+<script src="<@wp.resourceURL />sd-banking/static/dashboard-card-angular/main-es2015.84c2e28302532a6cafac.js"></script>
+<script src="<@wp.resourceURL />sd-banking/static/dashboard-card-angular/main-es5.84c2e28302532a6cafac.js"></script>
 <script src="<@wp.resourceURL />sd-banking/static/dashboard-card-angular/polyfills-es2015.4c80bf6ff2b243e3f48f.js"></script>
 <script src="<@wp.resourceURL />sd-banking/static/dashboard-card-angular/polyfills-es5.79d4237275a85829e281.js"></script>
 <script src="<@wp.resourceURL />sd-banking/static/dashboard-card-angular/runtime-es2015.1eba213af0b233498d9d.js"></script>
