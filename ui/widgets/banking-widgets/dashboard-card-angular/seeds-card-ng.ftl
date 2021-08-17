@@ -13,4 +13,4 @@
 
 <@wp.info key="currentLang" var="currentLangVar" />
 <@wp.currentWidget param="config" configParam="cardname" var="configName" />
-<sd-seeds-card-details-ng locale="${currentLangVar}" cardname="checking" />
+<sd-seeds-card-details-ng locale="${currentLangVar}" cardname="${configName}" />
