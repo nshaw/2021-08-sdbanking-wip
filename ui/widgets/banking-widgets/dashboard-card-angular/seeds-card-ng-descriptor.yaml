@@ -5,6 +5,6 @@ titles:
 group: free
 customUiPath: seeds-card-ng.ftl
 #configUi:
-#  customElement: sd-seeds-card-ng-config?
+#  customElement: sd-seeds-card-ng-config
 #  resources:
 #TBD entando_resource_injection_point
