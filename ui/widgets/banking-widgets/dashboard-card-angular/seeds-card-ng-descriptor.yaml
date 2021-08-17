@@ -1,7 +1,7 @@
 code: sd-seeds-card-ng
 titles:
-    en: SD Seeds Card NG
-    it: SD Seeds Card NG
+  en: SD Seeds Card NG
+  it: SD Seeds Card NG
 group: free
 customUiPath: seeds-card-ng.ftl
 configUi:
