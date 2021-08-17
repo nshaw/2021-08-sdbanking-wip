@@ -8,7 +8,7 @@ configUi:
   customElement: sd-seeds-card-config
   resources:
     - sd-banking/static/js/2.9bd8d75a.chunk.js
-    - sd-banking/static/js/main.118d0c28.chunk.js
+    - sd-banking/static/js/main.79ced323.chunk.js
     - sd-banking/static/js/runtime-main.5fd7e98a.js
 
 # entando_resource_injection_point
